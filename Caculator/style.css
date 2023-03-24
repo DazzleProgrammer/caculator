@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    /* background: rgba(23, 11, 59); */
+    font-family: sans-serif;
+}
+
+.button{
+    padding: 20px;
+}
+
+h1{
+    color: #0e76d0;
+    font-size: 70px;
+
+}
